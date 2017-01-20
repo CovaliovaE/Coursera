@@ -1,5 +1,4 @@
 * {
-	align-content: center;
 	box-sizing: border-box;
 }
 h1 {
@@ -8,6 +7,9 @@ h1 {
 	font: serif;
 }
 
+.div { 
+	align-content: center;
+}
 
 .descriptionChicken {
 	position: relative;
